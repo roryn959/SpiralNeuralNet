@@ -40,8 +40,3 @@ for epoch in range(10001):
     optimiser.update_params(dense1)
     optimiser.update_params(dense2)
     optimiser.post_update_params()
-
-
-
-
-        
